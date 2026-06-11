@@ -26,6 +26,8 @@ no2_low_RSD_analysis.ipynb -> forming ML ready no2 datasets.ipynb ->
 forming NC ML ready no2 datasets.ipynb -> no2 dpp models.ipynb -> 
 no2 NC dpp models.ipynb
 
+This calibration technique is still experimental. Use at your own risk.
+
 (*) (Winter, Anna R., et al. “A Scalable Calibration Method for Enhanced
 Accuracy in Dense Air Quality Monitoring Networks.” Environmental Science &amp;
 Technology, vol. 59, no. 5, 28 Jan. 2025, pp. 2599–2610,
